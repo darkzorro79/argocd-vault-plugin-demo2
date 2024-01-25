@@ -1,1 +1,4 @@
-# argocd-vault-plugin-demo2
+# argocd-vault-plugin-demo
+
+helm chart для проверки плагина argocd-vault-plugin в ArgoCD 
+
