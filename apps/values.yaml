@@ -3,5 +3,5 @@ spec:
   destination:
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://gitlab.mercury.ru/KMarkulev/argocd-vault-plugin-demo.git
+    repoURL: https://github.com/darkzorro79/argocd-vault-plugin-demo2.git
     targetRevision: main
